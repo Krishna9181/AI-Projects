@@ -1,6 +1,0 @@
-# Editor / IDE — machine-local; keep out of Git
-.cursor/
-.vscode/
-
-# Other projects live next to this repo on disk; do not track
-ethos-consulting-web/
