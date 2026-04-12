@@ -1,0 +1,3 @@
+# Editor / IDE — machine-local; keep out of Git
+.cursor/
+.vscode/
